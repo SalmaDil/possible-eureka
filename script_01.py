@@ -19,6 +19,8 @@ if(args.jens):
     print("Hello, Jens!")
 if(args.hendrik):
     print("Hello, Hendrik!")
+if(args.salma):
+    print("Hello, Salma!")
 if (args.name):
 	print("Hello, {0}!".format(args.name))
 
