@@ -9,7 +9,7 @@ parser.add_argument('--name')
 
 args = parser.parse_args()
 
-print("Hello, Loosolab and students and Rene!")
+print("Hello, Loosolab!")
 
 
 if(args.mario):
